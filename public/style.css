@@ -1,0 +1,29 @@
+
+#result{
+  font-family: 'Patua One', cursive;
+  color: #be97dc;
+}
+#iconP{
+    width: 270px;
+    height: 150px;
+  }
+  #colors {
+      font-family: 'Coiny', cursive;
+      color: #5dc0a6;
+      font-family: 'Hanalei Fill', cursive;
+      font-size: 46px;
+  }
+    .undraw{
+      width: 450px;
+    }
+    .bloc{
+      margin-top: 250px;
+      display: flex;
+      justify-content: space-around;
+    }
+    .footer{
+      width: 100%;
+      margin-top: 300px;
+      padding: 30px;
+      background-color: lightblue;
+    }
